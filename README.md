@@ -1,5 +1,4 @@
 # Bot chistes para WhatsApp
-
 Este proyecto sirve para enviar chistes malos a tus amigos de WhatsApp, mediante pyperclip, pyautogui y webbrowser.
 
 ## Instalación
@@ -8,7 +7,6 @@ Clona el repositorio y entra dentro del directorio.
 ```bash
 git clone https://github.com/cigital/bot-chistes-WhatsApp && cd bot-chistes-WhatsApp
 ```
-
 Dale permisos de ejecucion al archivos install.sh.
 ```bash
 chmod +x ./install.sh
@@ -26,4 +24,5 @@ python3 bot.py
 ## Referencias
 
 ![Pyautogui documentacion](https://pyautogui.readthedocs.io/en/latest/)
+
 ![Video de donde me inspire](https://youtu.be/gbzNzBUcRzs)
