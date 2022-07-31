@@ -23,6 +23,6 @@ python3 bot.py
 
 ## Referencias
 
-![Pyautogui documentacion](https://pyautogui.readthedocs.io/en/latest/)
+![Documentación de Pyautogui](https://pyautogui.readthedocs.io/en/latest/)
 
 ![Video de donde me inspire](https://youtu.be/gbzNzBUcRzs)
