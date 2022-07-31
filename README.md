@@ -13,7 +13,7 @@ chmod +x ./install.sh
 ```
 
 ## Como usar
-Para usar el programa tienes que reemplazar en la linea 18 las x con el numero de tus contactos, si necesitas mas o menos contactos puedes borrar o añadir en el dictionario las llaves y valores.
+Para usar el programa tienes que reemplazar en la linea 18 las x con el numero de tus contactos, si necesitas mas o menos contactos puedes borrar o añadir llaves y valores en el dictionario.
 
 Ejecuta bot.py.
 
