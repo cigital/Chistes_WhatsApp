@@ -16,9 +16,9 @@ chmod +x ./install.sh
 Para usar el programa tienes que reemplazar en el archivo bot.py en la linea 18 las x con el numero de tus contactos, si necesitas mas o menos contactos puedes borrar o añadir llaves y valores en el dictionario.
 
 Entra en el entorno.
-´´´bash
+```bash
 source entorno/bin/activate
-´´´
+```
 
 Ejecuta bot.py .
 
@@ -27,10 +27,9 @@ python3 bot.py
 ```
 
 Para salir del entorno simplemente escribe deactivate
-´´´bash
+```bash
 deactivate
-´´´
-
+```
 ## Referencias
 
 ![Documentación de Pyautogui](https://pyautogui.readthedocs.io/en/latest/)
