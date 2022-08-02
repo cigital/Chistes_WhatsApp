@@ -7,21 +7,28 @@ Clona el repositorio y entra dentro del directorio.
 ```bash
 git clone https://github.com/cigital/bot-chistes-WhatsApp && cd bot-chistes-WhatsApp
 ```
-Dale permisos de ejecucion al archivos install.sh.
+Dale permisos de ejecucion al archivos "install.sh".
 ```bash
-chmod +x ./install.sh
+chmod +x ./install.sh ./uninstall.sh
+```
+
+## Desinstalación
+
+Para desinstalar, ejecuta el archivo "uninstall.sh"
+
+```bash
+./uninstall.sh
 ```
 
 ## Como usar
-Para usar el programa tienes que reemplazar en el archivo bot.py en la linea 18 las x con el numero de tus contactos, si necesitas mas o menos contactos puedes borrar o añadir llaves y valores en el dictionario.
+Para usar el programa tienes que reemplazar en el archivo "bot.py" en la linea 18 las x con el numero de tus contactos, si necesitas mas o menos contactos puedes borrar o añadir llaves y valores en el dictionario.
 
-Entra en el entorno.
+Primero entra en el entorno.
 ```bash
 source entorno/bin/activate
 ```
 
-Ejecuta bot.py .
-
+Y ejecuta "bot.py" .
 ```python
 python3 bot.py
 ```
