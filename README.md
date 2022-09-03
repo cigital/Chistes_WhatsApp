@@ -12,6 +12,10 @@ Dale permisos de ejecucion al archivos "install.sh".
 chmod +x ./install.sh ./uninstall.sh
 ```
 
+Ejecuta el archivo de instalación.
+```bash
+./install.sh
+
 ## Desinstalación
 
 Para desinstalar, ejecuta el archivo "uninstall.sh"
