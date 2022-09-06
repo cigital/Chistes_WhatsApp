@@ -1,5 +1,7 @@
-# Bot chistes para WhatsApp
-Este proyecto sirve para enviar chistes malos a tus amigos de WhatsApp, mediante pyperclip, pyautogui y webbrowser.
+# Script chistes para WhatsApp
+Este script sirve para enviar chistes malos a tus amigos de WhatsApp, mediante pyperclip, pyautogui y webbrowser.
+
+!! ADVERTENCIA, este script solo esta probado en arch linux !!
 
 ## Instalación
 Clona el repositorio y entra dentro del directorio.
