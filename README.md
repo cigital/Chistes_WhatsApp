@@ -26,9 +26,9 @@ Para desinstalar, ejecuta el archivo "uninstall.sh"
 ```
 
 ## Como usar
-Para usar el programa tienes que reemplazar en el archivo "bot.py" en la linea 18 las x con el numero de tus contactos, si necesitas mas o menos contactos puedes borrar o añadir llaves y valores en el dictionario.
+Para usar el programa tienes que reemplazar en el archivo "bot.py" en la linea 18 las x con el numero de tus contactos,
 
-Primero entra en el entorno.
+Despues entra en el entorno.
 ```bash
 source entorno/bin/activate
 ```
