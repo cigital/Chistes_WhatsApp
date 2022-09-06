@@ -26,7 +26,7 @@ Para desinstalar, ejecuta el archivo "uninstall.sh"
 ```
 
 ## Como usar
-Para usar el script primero tienes que reemplazar en el archivo "bot.py" en la linea 18 las x con el numero de tus contactos,
+Para usar el script primero tienes que reemplazar en el archivo "bot.py" en la linea 18 las x con el numero de tus contactos.
 
 Despues entra en el entorno.
 ```bash
