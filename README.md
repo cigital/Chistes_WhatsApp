@@ -46,4 +46,4 @@ deactivate
 
 ![Documentación de Pyautogui](https://pyautogui.readthedocs.io/en/latest/)
 
-![Video de donde me inspire](https://youtu.be/gbzNzBUcRzs)
+![Video inspiración](https://youtu.be/gbzNzBUcRzs)
