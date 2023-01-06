@@ -44,6 +44,4 @@ deactivate
 ```
 ## Referencias
 
-[Documentación de Pyautogui](https://pyautogui.readthedocs.io/en/latest/)
-
-[Video inspiración](https://youtu.be/gbzNzBUcRzs)
+[Documentación de Pyautogui](https://pyautogui.readthedocs.io/en/latest/) | [Video inspiración](https://youtu.be/gbzNzBUcRzs)
