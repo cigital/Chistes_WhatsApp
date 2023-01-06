@@ -1,7 +1,7 @@
 # Script chistes para WhatsApp
 Este script sirve para enviar chistes malos a tus amigos de WhatsApp, mediante pyperclip, pyautogui y webbrowser.
 
-** !! Este script solo esta probado en arch linux !! **
+**¡¡ Este script solo esta probado en arch linux !!**
 
 ## Instalación
 Clona el repositorio y entra dentro del directorio.
